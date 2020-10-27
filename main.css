@@ -16,10 +16,13 @@ body {
     font-size: 20px;
 }
 .links {
-    font-size: 20px;
+    font-size: 25px;
     margin-left: 20px;
-    padding-right: 20px;
+    margin-right: 20px;
+    padding: 3px;
     float: right;
+    background-color: burlywood;
+    border: 1px black solid;
 }
 #overskrift {
     float: right;
@@ -96,8 +99,18 @@ h2 {
     padding-right: 20px;
     font-size: 20px;
 }
+#textbox4 {
+    height: 220px;
+    width: 90%;
+    margin-top: 60px;    
+    border: 2px solid aliceblue;
+    float: left;
+    margin-left: 5%;    
+    padding-left: 20px;
+    padding-right: 20px;
+}
 hr {
-    margin-top: 1800px;
+    margin-top: 2040px;
 }
 h3 {
     text-align: center;
