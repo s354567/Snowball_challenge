@@ -5,7 +5,7 @@ body {
     font-family: sans-serif;
 }
 #header {
-    height: 70px;
+    height: 10%;
     width 100%;
     background-color:cadetblue;
     border: 2px solid ;
@@ -13,7 +13,7 @@ body {
 }
 #headertext {
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
 }
 .links {
     font-size: 25px;
@@ -36,12 +36,12 @@ h1 {
 }
 #wearing {
     float: left;
-    width: 500px;
+    width: 35%;
     margin-top: 20px;
     border: 2px solid aliceblue;
 }
 #textbox1 {
-    height: 230px;
+    height: 15%;
     width: 58%;
     float: right;
     margin-left: 25px;
@@ -74,7 +74,7 @@ h2 {
     text-align: center;
 }
 #textbox2 {
-    height: 340px;
+    height: 25%;
     width: 43%;
     float: left;
     margin-right: 25px;
@@ -86,11 +86,11 @@ h2 {
 }
 #statestikk {
     float: right;
-    height: 370px;
+    height: 5%;
     margin-top: 140px;
 }
 #textbox3 {
-    height: 530px;
+    height: 40%;
     width: 50%;
     float: left;
     margin-top: 60px;
@@ -100,7 +100,7 @@ h2 {
     font-size: 20px;
 }
 #textbox4 {
-    height: 220px;
+    height: 18%;
     width: 90%;
     margin-top: 60px;    
     border: 2px solid aliceblue;
@@ -110,7 +110,7 @@ h2 {
     padding-right: 20px;
 }
 hr {
-    margin-top: 2040px;
+    margin-top: 147%;
 }
 h3 {
     text-align: center;
